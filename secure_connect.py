@@ -14,8 +14,7 @@ def main():
     cur = cx_Oracle.cursor()
     cur.execute(my_query)
     # Go to the Docs: https://cx-oracle.readthedocs.io/en/latest/
-    for row in cur.fetchone():
-        print("Row: "+row[0])
+    print(cur.fetchone())
     cur.close()
     dbc.close()
 
