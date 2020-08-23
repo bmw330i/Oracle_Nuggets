@@ -4,7 +4,7 @@
 - I am currently working on Oracle Python Automation projects
 - I presently work for a large Health Insurance Company in Calif
 - I will show you how to write Secure Shell and Python scripts that do useful things
-- Fun fact: I also am a P3 USHPA rated Paraglider Pilot
+- Fun fact:  I also am a P3 USHPA rated Paraglider Pilot
 
 ### Connect with me: 
 - bmw330i@mac.com
@@ -16,4 +16,5 @@
 - If you open cursors, close them, if you open a database connection, close it. Be a good client don't waste DB resources
 - AskTom is an Oracle Savant, I add "AskTom" to all my searches and go first to his answers. Do yourself a favor and do the same, trust me.
 
-
+## My Code explained
+- datapump.py is a program to do export or import of a list of tables using Python callproc to DBMS_DATAPUMP. Some interesting things about it are that I use parallel, connect with an oracle wallet and am showing some real world usage. The expamples online I found were either one table or entire schema or full database etc. Often you want a list of tables and no metadata or table exist action etc. I am currently working on getting status from the job while running. In the meantime when I do this in my code I loop in a query of dbms_datapump_jobs for state of not NOT RUNNING [ i.e. executing or other processing ]. Then returning to my code as the job has completed or error'd out. 
