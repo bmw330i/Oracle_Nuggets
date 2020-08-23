@@ -65,6 +65,7 @@ def import_table():
 def main():
     """Mainline program for export or importing using dbms_datapump"""
     global ez_conn_str, dbc 
+    usage       = "USAGE: "+sys.arg[0]+" -e|-i [ e=export and i=import ]"
     table_list  = "'table1','table2','tablen'" 
     schema_name = "'WWOMAN'"
     oracle_wallet_log =  "/home/oracle/wallet"
@@ -78,4 +79,10 @@ def main():
         else: 
             print("A Database Error happened")
         exit()
-       
+    if sys.argv[1] == '-e'   
+        export_table()
+    elif sys.argv[1] == '-i'
+        import_table()
+    else:
+        print(usage)
+        exit()
