@@ -6,10 +6,11 @@
 - I will show you how to write Secure Shell and Python scripts that do useful things
 - Fun fact:  I also am a P3 USHPA rated Paraglider Pilot
 
-### Connect with me: 
+## Connect with me: 
 - bmw330i@mac.com
 
-## Free Gold, Invest in this knowledge it has value that grows over time
+## Advice: 
+- Download and learn to use the "thin" client instead of the "fat" installed binaries
 - setup immediately an Oracle wallet and use it inside your scripts and Python. No more username/password, now /@[wallet_key], i.e. cx_Oracle.connect("/@ahost:1521/aservice") will get you in.
 - Use EZConnect and free yourself from tnsnames.ora. Put the EZConnect strings as your wallet keys, i.e. mkstore -wrl $TNS_ADMIN -createCredential ahost:12521/aservice userxyz "the#passw0rd" 
 - If you have special chars in the password use double quotes around the password [ see above use ]
