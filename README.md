@@ -1,15 +1,15 @@
 ### Hello there, I'm David - aka BMW330I 
 
 ## I am a Father, Pilot and Info Sys Expert
-- I am currently working on Oracle Python Automation projects
+- I am currently working on MS Azure Automation, with Ansible, projects
 - I presently work for a large Health Insurance Company in Calif
-- I will show you how to write Secure Shell and Python scripts that do useful things
-- Fun fact:  I also am a P3 USHPA rated Paraglider Pilot
+- Fun fact:  I hold a USHPA P3 Paraglider Rating and am also a private pilot
 
 ## Connect with me: 
 - bmw330i@mac.com
 
 ## Advice: 
+- Ansible Automation Platform is quite useful, very quick to learn if you know Python
 - Download and learn to use the "thin" client instead of the "fat" installed binaries
 - setup immediately an Oracle wallet and use it inside your scripts and Python. No more username/password, now /@[wallet_key], i.e. cx_Oracle.connect("/@ahost:1521/aservice") will get you in.
 - Use EZConnect and free yourself from tnsnames.ora. Put the EZConnect strings as your wallet keys, i.e. mkstore -wrl $TNS_ADMIN -createCredential ahost:12521/aservice userxyz "the#passw0rd" 
