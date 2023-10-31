@@ -1,7 +1,7 @@
 ### Hello there, I'm David - aka BMW330I 
 
 ## I am a Father, Pilot and DevSecOps Engineer
-- I have onboarded a partner, Bing/ChatGPT are my copilots in my work efforts
+- I have onboarded partners: Bing/ChatGPT they are indespensible now
 - I am currently working on MS Azure Automation, with Ansible, projects
 - I presently work for a large Health Insurance Company in Calif
 - I am a DevSecOps Engineer now, Azure, PaaS, IaaS mostly, SQLDB, MySQL, PostgreSQL
