@@ -4,12 +4,14 @@
 - I have onboarded a partner, Bing/ChatGPT are my copilots in my work efforts
 - I am currently working on MS Azure Automation, with Ansible, projects
 - I presently work for a large Health Insurance Company in Calif
+- I am a DevSecOps Engineer now, Azure, PaaS, IaaS mostly, SQLDB, MySQL, PostgreSQL
 - Fun fact:  I hold a USHPA P3 Paraglider Rating and also a private pilot
 
 ## Connect with me: 
 - bmw330i@mac.com
 
 ## Advice: 
+- Get to know AI, Bing, ChatGPT, the conversation is the key to success, not the question asked
 - Ansible Automation Platform is quite useful, very quick to learn if you know Python
 - Download and learn to use the "thin" client instead of the "fat" installed binaries
 - setup immediately an Oracle wallet and use it inside your scripts and Python. No more username/password, now /@[wallet_key], i.e. cx_Oracle.connect("/@ahost:1521/aservice") will get you in.
