@@ -1,9 +1,10 @@
 ### Hello there, I'm David - aka BMW330I 
 
-## I am a Father, Pilot and Info Sys Expert
+## I am a Father, Pilot and DevSecOps Engineer
+- I have onboarded a partner, Bing/ChatGPT are my copilots in my work efforts
 - I am currently working on MS Azure Automation, with Ansible, projects
 - I presently work for a large Health Insurance Company in Calif
-- Fun fact:  I hold a USHPA P3 Paraglider Rating and am also a private pilot
+- Fun fact:  I hold a USHPA P3 Paraglider Rating and also a private pilot
 
 ## Connect with me: 
 - bmw330i@mac.com
